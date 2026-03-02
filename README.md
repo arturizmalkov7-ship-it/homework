@@ -1,1 +1,1 @@
-just fo example
+just to example
